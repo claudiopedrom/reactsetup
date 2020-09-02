@@ -29,6 +29,10 @@ yarn eslint --init
 yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
 ```
 
+4. Add EditorConfig
+
+Install the VSCode plugin `editorconfig.editorconfig` and generate and new file ny clicking with the right click on the Explorer.
+
 ## Getting Started
 
 First, run the development server:
