@@ -4,6 +4,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 yarn create next-app reactsetup
 ```
 
+## Steps
+
+1. Add TypeScript
+
+```bash
+yarn add typescript @types/react @types/node -D
+
+# A tsconfig.json and a next-env.d.ts are created for us.
+yarn dev
+```
+
 ## Getting Started
 
 First, run the development server:
