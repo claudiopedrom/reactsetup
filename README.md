@@ -15,6 +15,14 @@ yarn add typescript @types/react @types/node -D
 yarn dev
 ```
 
+2. Add ESLint
+
+```bash
+yarn add eslint -D
+
+yarn eslint --init
+```
+
 ## Getting Started
 
 First, run the development server:
