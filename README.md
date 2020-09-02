@@ -23,6 +23,12 @@ yarn add eslint -D
 yarn eslint --init
 ```
 
+3. Add Prettier
+
+```bash
+yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+```
+
 ## Getting Started
 
 First, run the development server:
