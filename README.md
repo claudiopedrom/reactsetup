@@ -40,6 +40,13 @@ yarn add styled-components
 yarn add @types/styled-components -D
 ```
 
+6. Import images
+
+```bash
+yarn add next-images
+yarn add babel-plugin-inline-react-svg -D
+```
+
 ## Getting Started
 
 First, run the development server:
