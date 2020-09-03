@@ -33,6 +33,13 @@ yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
 
 Install the VSCode plugin `editorconfig.editorconfig` and generate and new file ny clicking with the right click on the Explorer.
 
+5. Add Styled Components
+
+```bash
+yarn add styled-components
+yarn add @types/styled-components -D
+```
+
 ## Getting Started
 
 First, run the development server:
